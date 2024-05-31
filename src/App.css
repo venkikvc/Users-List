@@ -1,0 +1,22 @@
+.loading-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.loading-text {
+    font-size: 24px;
+    font-weight: bold;
+}
+.background-container {
+    background-image: 'url(/dummy-app/public/bg-main.jpg)';
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
