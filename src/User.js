@@ -50,7 +50,7 @@ const UserDetails = () => {
       
       <div class="bg-white max-w-2xl shadow overflow-hidden sm-rounded-lg margin-auto width-auto">
         <div class="px-4 py-5 sm:px-6"> 
-          <p class="text-lg leading-6 font-medium text-gray-900">Employees Database</p>
+          <p class="text-lg leading-6 font-medium text-gray-900">Users database</p>
           <p class="mt-1 max-w-2xl text-sm text-gray-500">Details and information about user</p>
         </div> 
         <div class="border-t border-gray-200"> 
