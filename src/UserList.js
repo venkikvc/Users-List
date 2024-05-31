@@ -26,7 +26,7 @@ export default function UserList() {
    
     return (
         <div className='App'>
-            <div className='background-container'>
+            
                 <h2 style={{ color: 'green', fontSize: 40, justifyContent:'center', textAlign:'center'}}>Users List</h2>
             
                 <center>
@@ -47,7 +47,7 @@ export default function UserList() {
                         )})
                     }
                 </center>
-            </div>
+            
         </div>
     )
 };
